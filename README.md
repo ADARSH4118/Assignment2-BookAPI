@@ -39,8 +39,8 @@ Replace your connection string in .env or directly in the code if needed
 
 
 How to Run the Server
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone  https://github.com/ADARSH4118/Assignment2-BookAPI.git
+cd Assignment2-BookAPI.git
 Install dependencies:
 npm install
 Start the server:
