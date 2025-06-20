@@ -12,9 +12,7 @@
 - **Description**: Fetches all items from the database.
 - **Request Body**: Not required
 - **Sample Response**:
-json
-
-
+```json
 [
   {
     "_id": "662acbd7d8d3fa001ed408c1",
