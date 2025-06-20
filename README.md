@@ -53,6 +53,15 @@ http://localhost:3001
 it exists inside the project root (/public/index.html)
 
 
+
+## Frontend Screenshot
+
+Here is how the frontend looks:
+
+![Frontend Screenshot](screenshot.png)
+
+
+
 🔄 Sample API Requests
 ➕ Add Item
 POST /api/items
